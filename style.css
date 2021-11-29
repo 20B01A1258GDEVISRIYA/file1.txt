@@ -1,0 +1,22 @@
+ .column{
+     float:left;
+     width:50%;
+
+ }
+ .row:after{
+     content:"";
+     display:table;
+     clear: both;
+ }
+ .length{
+     width:100%;
+ }
+ .c1 
+ {
+     position:relative;
+     right:55px;
+ }
+ .c2
+ {
+     vertical-align: top;
+ }
